@@ -1,7 +1,6 @@
 ![image](https://github.com/Mohammad-Amirifard/Mohammad-Amirifard/assets/102412401/e3d473a1-2d9f-4b5b-939b-f43397616984)
 <div align="center">
   <img src="https://www.worldforumonurbanforests.org/images/about_wfuf/partner/loghi/Politecnico_Milano_logo.png" width="200" />
-  <img src=" https://www.irangi.org/uploads/images/4_1560089256_1291127534.png" width="50" />
   <img src="https://cdn-images-1.medium.com/max/720/1*x2KQgGvWeeqTmBkXGvcHxg@2x.png" width="50" />
 </div>
 <h1 align="center">Hi 👋, My name is Mohammad</h1>
