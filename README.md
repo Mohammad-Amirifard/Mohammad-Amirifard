@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Computer vision concepts**
+- 🔭 I’m currently working on **LLMs and GenAI**
 
 - 📫 How to reach me **mohammad.amirifard@mail.polimi.it**
 
