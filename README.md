@@ -3,7 +3,7 @@
 <h3 align="center">AI Engineer | LLM & Generative AI Enthusiast | Building Intelligent Systems</h3>
 
 <p align="center">
-  Passionate about building intelligent systems with <strong>Large Language Models</strong>, 
+  Passionate about building intelligent systems with <strong>Large Language Models</strong>,
   <strong>Machine Learning</strong>, and <strong>scalable AI applications</strong>.
   I enjoy turning complex ideas into practical, real-world solutions.
 </p>
@@ -40,17 +40,18 @@
 </p>
 
 ---
+
 ## 🛠️ Languages & Tools
 
-<p align="left"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/></a><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/></a><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/></a><a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/></a><a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/></a><a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45"/></a><a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/></a></p>
+<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" /></a>&nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git" /></a>&nbsp;<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" /></a>&nbsp;<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" /></a>&nbsp;<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-learn" /></a>&nbsp;<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn" /></a>&nbsp;<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45" alt="TensorFlow" /></a></p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammad-amirifard&show_icons=true&include_all_commits=true&count_private=true&locale=en" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-amirifard&show_icons=true&locale=en&layout=compact" alt="Top languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammad-amirifard&show_icons=true&include_all_commits=true&count_private=true&locale=en" alt="GitHub stats including private contributions where supported" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-amirifard&layout=compact&count_private=true&langs_count=8&locale=en" alt="Top languages" height="170" />
 </p>
 
 ---
@@ -58,11 +59,11 @@
 ## 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-amirifard" alt="GitHub streak stats" height="170" />
+  <img src="https://streak-stats.demolab.com?user=mohammad-amirifard" alt="GitHub streak stats" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammad-amirifard&theme=github" alt="GitHub profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammad-amirifard&theme=github" alt="GitHub profile details including commits, PRs, issues, and repositories where available" />
 </p>
 
 <p align="center">
@@ -88,6 +89,22 @@ My main focus is on creating AI solutions that are not only technically strong, 
 
 ---
 
+## 📈 Contribution Highlights
+
+This profile is designed to reflect:
+
+- **Commits across all years**
+- **Recent development activity**
+- **Pull requests and contribution patterns**
+- **Repository-level profile insights**
+- **Language usage and coding focus**
+- **Consistency over time**
+
+> **Note:** Some public GitHub stat widgets only partially reflect activity from private repositories.
+> For the most complete private-repo statistics, a self-hosted stats setup with a GitHub token is usually needed.
+
+---
+
 ## 🤝 Let’s Connect
 
 I’m always interested in connecting with people working in:
@@ -97,13 +114,13 @@ I’m always interested in connecting with people working in:
 - NLP
 - LLM applications
 - Generative AI
-- Software and backend systems
+- Software engineering and backend systems
 
 <p align="left">
   <a href="mailto:mohammad.amirifard@mail.polimi.it">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email badge" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
   </a>
   <a href="https://linkedin.com/in/mohammad-amirifard" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
 </p>
