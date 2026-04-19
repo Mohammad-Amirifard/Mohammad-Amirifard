@@ -88,19 +88,6 @@ My main focus is on creating AI solutions that are not only technically strong, 
 
 ---
 
-## 📈 What These Stats Show
-
-This profile includes visual summaries of:
-
-- total commits across **all years**
-- current year activity
-- pull request and contribution activity
-- repository-related profile insights
-- language usage
-- contribution consistency over time
-
----
-
 ## 🤝 Let’s Connect
 
 I’m always interested in connecting with people working in:
