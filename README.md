@@ -89,21 +89,6 @@ My main focus is on creating AI solutions that are not only technically strong, 
 
 ---
 
-## 📈 Contribution Highlights
-
-This profile is designed to reflect:
-
-- **Commits across all years**
-- **Recent development activity**
-- **Pull requests and contribution patterns**
-- **Repository-level profile insights**
-- **Language usage and coding focus**
-- **Consistency over time**
-
-> **Note:** Some public GitHub stat widgets only partially reflect activity from private repositories.
-> For the most complete private-repo statistics, a self-hosted stats setup with a GitHub token is usually needed.
-
----
 
 ## 🤝 Let’s Connect
 
