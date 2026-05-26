@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Amirifard</h1>
+<h1 align="center">Hi 👋, I'm Daniel (Mohammad) Amirifard</h1>
 
 <h3 align="center">AI Engineer | LLM & Generative AI Enthusiast | Building Intelligent Systems</h3>
 
