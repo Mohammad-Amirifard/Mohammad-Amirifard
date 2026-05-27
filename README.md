@@ -92,18 +92,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Daniel-Amirifard&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=false"
-    alt="Daniel Amirifard GitHub Stats"
-    height="170"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=daniel-amirifard&show_icons=true&theme=default&hide_border=true&include_all_commits=true" 
+    alt="Daniel Amirifard GitHub Stats" 
+    height="170" 
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Amirifard&layout=compact&langs_count=8&theme=default&hide_border=false"
-    alt="Daniel Amirifard Top Languages"
-    height="170"
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-amirifard&layout=compact&langs_count=8&theme=default&hide_border=true" 
+    alt="Daniel Amirifard Top Languages" 
+    height="170" 
   />
 </p>
-
 ---
 
 ## 🔥 GitHub Activity
