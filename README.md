@@ -136,34 +136,8 @@
 </p>
 
 ---
----
 
-## 📂 Projects
 
-| Group | Project | Description | Link |
-|---|---|---|---|
-| 🤖 GenAI / Agentic Systems | LangGraph | Learning and building agentic AI workflows using LangGraph, from basic to advanced concepts. | [Link]() |
-| 🤖 GenAI / Agentic Systems | LFQA | Long-form question answering project focused on NLP and language understanding. | [Link]() |
-| 🤖 GenAI / Agentic Systems | NLP_Tutorial | Practical NLP tutorials and experiments for learning core natural language processing concepts. | [Link]() |
-| 🤖 GenAI / Agentic Systems | String_Art_V2 | End-to-end AI-based string art system with image processing and intelligent generation pipeline. | [Link]() |
-| 👁️ Computer Vision | V2V_Cooperative_Perception | Cooperative perception project based on OpenCOOD for vehicle-to-vehicle object detection. | [Link]() |
-| 👁️ Computer Vision | Plant-Classification-Polimi | Image classification project focused on plant recognition using machine learning/deep learning. | [Link]() |
-| 👁️ Computer Vision | Breast-Cancer-Detection | Medical imaging project for breast cancer detection using Kaggle-based datasets. | [Link]() |
-| 👁️ Computer Vision | dicom-to-png | Tool for converting DICOM medical images into PNG format for image processing workflows. | [Link]() |
-| 👁️ Computer Vision | C1-Dogs-Vs-Cats | CNN-based image classification project for dogs vs cats recognition. | [Link]() |
-| 🌐 Network, Security & Telecom AI | Intrusion_Detection | Machine learning anomaly detection project on the CIC-IDS2017 cybersecurity dataset. | [Link]() |
-| 🌐 Network, Security & Telecom AI | Application_Identifier | Packet-based application classification using Wireshark data and machine learning. | [Link]() |
-| 🌐 Network, Security & Telecom AI | QoT | Quality of Transmission estimation project for optical networks. | [Link]() |
-| 🌐 Network, Security & Telecom AI | MultiNet-Route-Optimizer | Routing strategy project for multilayer network planning and optimization. | [Link]() |
-| 🌐 Network, Security & Telecom AI | Mac_Derandomization | Machine learning project for recognizing randomized MAC addresses produced by wireless devices. | [Link]() |
-| 📊 ML, Forecasting & Data Systems | Traffic-forecasting | Traffic sequence forecasting project using machine learning and deep learning models. | [Link]() |
-| 📊 ML, Forecasting & Data Systems | Time-Series-Forecasting | Time-series forecasting experiments and practical predictive modeling workflows. | [Link]() |
-| 📊 ML, Forecasting & Data Systems | Recommender-Systems | Recommendation system project developed during studies at Politecnico di Milano. | [Link]() |
-| 📊 ML, Forecasting & Data Systems | Mlops | MLOps-focused project for learning production-ready machine learning workflows. | [Link]() |
-| 📊 ML, Forecasting & Data Systems | learning_fast_api | Backend API learning project using FastAPI for AI/software engineering applications. | [Link]() |
-| 📊 ML, Forecasting & Data Systems | MongoDb_Package_connector | Python package connector project for working with MongoDB-based data systems. | [Link]() |
-
----
 
 ## ✨ A Little More About Me
 
