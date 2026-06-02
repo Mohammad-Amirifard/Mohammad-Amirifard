@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Amirifard</h1>
 
 <h3 align="center">
-  AI Engineer | LLM & Generative AI Enthusiast | Building Intelligent Systems
+  AI Engineer | LLM & VLM & Generative AI Enthusiast | Building Intelligent Systems
 </h3>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **LLMs, Generative AI, and AI Engineering**
+- 🔭 Currently working on **LLMs,VLMs(vision), Generative AI, and AI Engineering**
 - 🤖 Interested in **NLP, agentic AI systems, backend systems, and intelligent automation**
 - ⚙️ Building **end-to-end machine learning pipelines** and scalable AI applications
 - 🌱 Continuously learning about **model deployment, optimization, MLOps, and AI product development**
